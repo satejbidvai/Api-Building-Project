@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "satejbidvai",
+        "MONGO_PASSWORD": "j5RjJ6Sn09z6NB26",
+        "MONGO_DB": "graphql-learn-api-building"
+    }
+}
